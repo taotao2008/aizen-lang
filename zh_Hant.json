@@ -447,7 +447,7 @@
                 },
                 "onboarding": {
                     "pick": "選擇一個使用者名稱讓其他人能夠找到您，之後可以在設定中進行更改。",
-                    "welcome": "歡迎來到"
+                    "welcome": "AiZen人工智能產品"
                 },
                 "token_reveal": "{{name}} 的 Token",
                 "signed_out": "您已經登出！",
@@ -689,7 +689,7 @@
             "social": "尋找其他伺服器和機器人",
             "feedback": "給予 AiZen 回饋",
             "settings-tooltip": "您也可以右鍵點擊左上角的使用者頭像，或是在首頁點擊左鍵。",
-            "directs": "私人訊息",
+            "directs": "訊息",
             "join-testers_desc": "您可以直接在此處報告問題並與我們討論改進。",
             "goto-testers_desc": "您可以直接在此處報告問題並與我們討論改進。",
             "donate_desc": "通過捐贈支持該項目 - 謝謝！",
@@ -738,11 +738,11 @@
         "username": "使用者名稱",
         "register": "註冊",
         "title": "登入",
-        "welcome2": "您好！",
+        "welcome2": "AiZen人工智能產品",
         "subtitle2": "建立帳號",
-        "welcome": "歡迎！",
-        "subtitle": "登入 AiZen",
-        "unofficial_instance": "第三方實例。",
+        "welcome": "AiZen人工智能產品",
+        "subtitle": "打造人工智能與人類智慧融合的多元世界",
+        "unofficial_instance": "AiZen官網產品介紹。",
         "totp": "二步驟驗證程式",
         "recovery": "恢復代碼",
         "new_password": "新密碼",
