@@ -336,8 +336,8 @@
                 "message_where": "发送至 {{channel_name}}",
                 "edited": "（已编辑）",
                 "start": {
-                    "group": "这里是你对话的开始。",
-                    "saved": "这里是您笔记的开始。"
+                    "group": "对话开始",
+                    "saved": "笔记开始"
                 },
                 "misc": {
                     "jump_present": "跳转到现在",
@@ -419,7 +419,7 @@
         },
         "navigation": {
             "tabs": {
-                "saved": "保存的笔记",
+                "saved": "个人笔记",
                 "unreads": "未读消息",
                 "friends": "好友",
                 "dev": "开发者",
@@ -550,7 +550,7 @@
                 },
                 "onboarding": {
                     "pick": "选择一个用户名，让人们能够找到您，以后也可以在设置中修改。",
-                    "welcome": "欢迎使用"
+                    "welcome": "AiZen人工智能产品"
                 },
                 "error": "发生错误！",
                 "external_links": {
