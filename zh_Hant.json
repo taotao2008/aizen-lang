@@ -718,7 +718,7 @@
         "resend": "重新發送認證碼",
         "missing_verification": "沒有收到電子郵件？",
         "existing": "已經有一個帳號了嗎？",
-        "new": "第一次使用 AiZen？",
+        "new": "首次使用 AiZen？",
         "remembered": "返回登入頁面",
         "set_password": "設定新密碼",
         "reset": "重設密碼",
