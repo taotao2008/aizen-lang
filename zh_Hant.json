@@ -683,7 +683,7 @@
         },
         "home": {
             "goto-testers": "前往測試者伺服器",
-            "donate": "捐獻給 AiZen",
+            "donate": "充值中心",
             "settings": "開啟設定",
             "join-testers": "加入測試者伺服器",
             "social": "尋找其他伺服器和機器人",
@@ -692,12 +692,14 @@
             "directs": "訊息",
             "join-testers_desc": "您可以直接在此處報告問題並與我們討論改進。",
             "goto-testers_desc": "您可以直接在此處報告問題並與我們討論改進。",
-            "donate_desc": "通過捐贈支持該項目 - 謝謝！",
+            "donate_desc": "賬戶余額查詢、套餐購買、充值入口",
             "feedback_desc": "通過向我們提供回饋，讓我們知道如何改進我們的應用程式。",
             "discover_desc": "根據您的愛好或興趣尋找社群。",
             "group": "建立群組",
             "group_desc": "邀請您所有的朋友，一些很酷的機器人，並舉辦一個盛大的派對。",
-            "discover": "探索 AiZen"
+            "discover": "探索 AiZen",
+            "documentation": "產品教程",
+            "documentation_desc": "AiZen產品功能、相關概念和使用教程"
         }
     },
     "login": {
@@ -757,11 +759,11 @@
         "off": "關閉",
         "on": "開啟",
         "loading": "讀取中…",
-        "image_by": "圖示來源是",
+        "image_by": "圖示來源",
         "privacy": "隱私政策",
-        "tos": "服務條款",
-        "about": "關於",
-        "learn_more": "瞭解更多"
+        "tos": "返回首頁",
+        "about": "用戶中心",
+        "learn_more": "進入官網"
     },
     "quantities": {
         "members": {

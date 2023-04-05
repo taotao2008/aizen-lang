@@ -696,20 +696,22 @@
         "home": {
             "join-testers": "加入测试服务器",
             "goto-testers": "前往测试服务器",
-            "donate": "捐赠给 AiZen",
+            "donate": "充值中心",
             "feedback": "为 AiZen 反馈",
             "settings": "打开设置",
             "settings-tooltip": "您也可以右键点击左上角的用户图标，或者在主页时直接左键点击。",
             "social": "寻找服务器和机器人",
             "directs": "消息",
             "goto-testers_desc": "您可以在此处直接报告问题和讨论建议。",
-            "donate_desc": "捐赠以支持此项目——谢谢！",
+            "donate_desc": "账户余额查询、套餐购买、充值入口",
             "feedback_desc": "发送反馈让我们知道怎样改进此应用。",
             "discover": "探索 AiZen",
             "discover_desc": "根据您的爱好和兴趣寻找社区。",
             "group": "创建群组",
             "join-testers_desc": "您可以在此处直接报告问题和讨论建议。",
-            "group_desc": "邀请所有朋友，设置好玩的机器人或者举办线上聚会。"
+            "group_desc": "邀请所有朋友，设置好玩的机器人或者举办线上聚会。",
+            "documentation": "产品教程",
+            "documentation_desc": "AiZen产品功能、相关概念和使用教程"
         }
     },
     "login": {
@@ -754,7 +756,7 @@
         "subtitle2": "打造人类智慧与AI可信融合的多元世界",
         "welcome": "AiZen人工智能产品",
         "subtitle": "打造人类智慧与AI可信融合的多元世界",
-        "unofficial_instance": "AiZen官网产品介绍。",
+        "unofficial_instance": "AiZen产品简介 ",
         "totp": "身份验证器应用",
         "recovery": "恢复代码",
         "verifying_account": "验证您的账户…",
@@ -764,16 +766,16 @@
         "log_out_other": "登出所有其他设备"
     },
     "general": {
-        "image_by": "图片来自",
+        "image_by": "图片来源",
         "privacy": "隐私政策",
-        "tos": "服务条款",
-        "about": "关于",
+        "tos": "返回首页",
+        "about": "用户中心",
         "loading": "加载中…",
         "on": "开",
         "off": "关",
         "disabled": "已禁用",
         "unavailable": "不可用",
-        "learn_more": "更多信息"
+        "learn_more": "进入官网"
     },
     "notifications": {
         "now_friends": "您与 @{{person}} 成为了好友！",
