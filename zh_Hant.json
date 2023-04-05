@@ -367,9 +367,9 @@
                     "removed_by": "{{other_user}} 移除了 {{user}}",
                     "added_by": "{{other_user}} 加入了 {{user}}",
                     "user_banned": "{{user}} 被停權了",
-                    "user_kicked": "{{user}} 被踢出伺服器",
-                    "user_joined": "{{user}} 加入了伺服器",
-                    "user_left": "{{user}} 離開了伺服器",
+                    "user_kicked": "{{user}} 被踢出聯邦",
+                    "user_joined": "{{user}} 加入了聯邦",
+                    "user_left": "{{user}} 離開了聯邦",
                     "channel_ownership_changed": "{{from}} 將群組的所有權轉移給了 {{to}}",
                     "registered_at": "已註冊 {{time}}"
                 },
@@ -386,7 +386,7 @@
                 "message_where": "發送到 {{channel_name}}",
                 "errors": {
                     "title": "哎呀，這裡什麼都沒有！",
-                    "nochannels": "此伺服器沒有頻道，或者您沒有檢視頻道的權限。",
+                    "nochannels": "此聯邦沒有頻道，或者您沒有檢視頻道的權限。",
                     "nochannel": "沒有頻道"
                 },
                 "reply": {
