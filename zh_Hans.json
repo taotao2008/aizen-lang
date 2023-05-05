@@ -524,7 +524,7 @@
                     "failed": "更改失败！",
                     "change": {
                         "password": "更改您的密码",
-                        "email": "更改您的电子邮箱",
+                        "email": "更改您的手机号码",
                         "username": "更改您的用户名"
                     }
                 },
@@ -740,14 +740,14 @@
             "current_password": "输入您现在的密码。",
             "invite": "输入您的邀请码。",
             "password": "输入您的密码。",
-            "email": "请输入您的电子邮箱。",
+            "email": "请输入您的手机号码。",
             "username": "输入您的用户名。",
             "new_password": "输入新密码。"
         },
         "current_password": "当前密码",
         "invite": "邀请码",
         "password": "密码",
-        "email": "电子邮箱",
+        "email": "手机号码",
         "username": "用户名",
         "register": "注册",
         "title": "登录",
@@ -804,7 +804,7 @@
         "BlockedOther": "此用户已屏蔽您。",
         "Blocked": "您已屏蔽此用户。",
         "AlreadyOnboarded": "已经完成了初始化。",
-        "EmailInUse": "电子邮箱已被使用。",
+        "EmailInUse": "手机号码已被使用。",
         "Unlabelled": "有些神秘的事情发生了。",
         "Unauthorized": "未经授权。",
         "DeniedNotification": "您拒绝了通知权限，请检查页面设置。",
@@ -826,7 +826,7 @@
         "InvalidInvite": "无效的代码",
         "MissingInvite": "请求中缺少邀请码。",
         "InvalidToken": "无效的令牌",
-        "InvalidCredentials": "电子邮箱或密码错误。",
+        "InvalidCredentials": "手机号码或密码错误。",
         "EmailFailed": "电子邮件发送失败。",
         "UnknownUser": "未知的用户。",
         "UnverifiedAccount": "未验证的账户。",
